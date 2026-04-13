@@ -17,4 +17,3 @@ public class AdminController {
         return statsService.getCA();
     }
 }
-
